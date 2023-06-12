@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-kitronik-air-quality": "github:kitronikltd/pxt-kitronik-air-quality#v1.0.12"
+        "pxt-kitronik-air-quality": "github:kitronikltd/pxt-kitronik-air-quality#v1.0.12",
+        "pxt-kitronik-air-quality-v2-only": "github:kitronikltd/pxt-kitronik-air-quality-v2-only#v1.3.6"
     },
     "files": [
         "main.blocks",
